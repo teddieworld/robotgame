@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9DF176DE-6423-DC33-EDC1-59809AF6EC01}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/playerMovement.cs">
+    <Files>
+      <File FileName="Assets/scripts/collision.cs" Line="24" Column="23" />
+      <File FileName="Assets/scripts/playerMovement.cs" Line="26" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="robotproject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="playerMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9bfa4d16-bbae-4cd4-b786-e5dec66a411a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
